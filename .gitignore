@@ -1,0 +1,11 @@
+.env
+.venv/
+.codex_deps/
+.pip_cache/
+.tmp/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+outputs/
+*.log

@@ -1,0 +1,2 @@
+"""Mayuan question generator package."""
+
